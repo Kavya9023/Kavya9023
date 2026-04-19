@@ -48,11 +48,15 @@
 
 <div align="center">
 
-| Top Languages | GitHub Stats |
-|:---:|:---:|
-| ![Top Languages](github-languages.svg) | ![GitHub Stats](github-stats.svg) |
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya9023&layout=compact&theme=default" alt="Top Languages" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavya9023&show_icons=true&theme=default" alt="GitHub Stats" />
 
 </div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kavya9023&theme=default&hide_border=false" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kavya9023&theme=default&hide_border=false" alt="GitHub Streak" />
