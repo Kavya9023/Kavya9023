@@ -58,6 +58,4 @@
   <img src="https://streak-stats.demolab.com?user=Kavya9023&theme=default&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kavya9023&theme=default&hide_border=false" alt="GitHub Streak" />
-</p>
+
