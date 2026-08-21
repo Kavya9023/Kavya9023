@@ -14,7 +14,6 @@
 - 🌱 Currently expanding my expertise in **DSA**, **DataBase and Management System**, and building **Problem Solving Algorithms**
 - 💻 All of my projects are available at https://github.com/Kavya9023
 - 📧 How to reach me: **kavyas9023@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1WPrWkoqywRNcnuOK06K-lopxz5Hr3unl/view?usp=drive_link)
 
 <br/>
 
